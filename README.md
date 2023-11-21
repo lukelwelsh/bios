@@ -1,7 +1,7 @@
 DONE:
-Wake Forest University
-University of Virginia
-University of Pittsburgh
+Wake Forest University \n
+University of Virginia \n
+University of Pittsburgh \n
 Florida State University
 
 In Progress:
