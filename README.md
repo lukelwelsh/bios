@@ -1,8 +1,8 @@
 DONE:
-Wake Forest University \n
-University of Virginia \n
-University of Pittsburgh \n
-Florida State University
+- Wake Forest University
+- University of Virginia
+- University of Pittsburgh
+- Florida State University
 
 In Progress:
 University of Miami (Max)
