@@ -3,11 +3,11 @@ DONE:
 - University of Virginia
 - University of Pittsburgh
 - Florida State University
+- Boston College
 
 In Progress:
 University of Miami (Max)
 Syracuse University (Max)
-Boston College (Luke)
 
 To Do:
 Clemson University
