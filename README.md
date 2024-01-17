@@ -1,3 +1,8 @@
+Data Challenge through the University of Wisconsin BIOS. 
+
+Goal was to learn information about where ACC athletes come from and to understand the demographics of these areas. Completed code successfully scrapes information about these athletes from about half of the schools and organizes it neatly.
+Disclaimer: Did not complete due overall with final projects in classes and randomly selected group with only one teammate wanting to work on it.
+
 DONE:
 - Wake Forest University
 - University of Virginia
